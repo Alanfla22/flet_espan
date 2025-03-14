@@ -67,7 +67,7 @@ def main(page: ft.Page):
                     )
                                                                                                             
     def atualizar(e):
-                                                                                                                                                                          atualizar_lista()
+        atualizar_lista()
         frase = open(my_file_path, 'r').readlines()[0]
         vocabulos = tokenizacao(frase)
         a.content = ft.Text(value=vocabulos, color="grey", weight=ft.FontWeight.W_500)
