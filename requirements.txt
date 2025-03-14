@@ -2,7 +2,5 @@ flet==0.27.6
 flet-desktop==0.27.6
 flet-cli==0.27.6
 flet-web==0.27.6
-spacy==3.0.9
-spacy-legacy==3.0.12
-spacy-loggers==1.0.5
+spacy
 es-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-3.7.0/es_core_news_sm-3.7.0-py3-none-any.whl
