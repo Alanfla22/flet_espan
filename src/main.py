@@ -2,7 +2,6 @@ import flet as ft
 import spacy
 import random
 import os
-from IPython.display import clear_output
 
 nlp = spacy.load('es_core_news_sm')
 
